@@ -1,0 +1,338 @@
+Baseball Game Log
+
+Inning 1 (top): Volpe - home_run
+Score: Team1 0, Team2 0
+Outs: 0, Bases: OOO
+
+Inning 1 (top): Soto - single
+Score: Team1 1, Team2 0
+Outs: 0, Bases: OOO
+
+Inning 1 (top): Rizzo - out
+Score: Team1 1, Team2 0
+Outs: 0, Bases: XOO
+
+Inning 1 (top): Judge - single
+Score: Team1 1, Team2 0
+Outs: 1, Bases: XOO
+
+Inning 1 (top): Torres - out
+Score: Team1 1, Team2 0
+Outs: 1, Bases: XXO
+
+Inning 1 (top): Verdugo - out
+Score: Team1 1, Team2 0
+Outs: 2, Bases: XXO
+
+Inning 1 (bottom): Duran - double
+Score: Team1 1, Team2 0
+Outs: 0, Bases: OOO
+
+Inning 1 (bottom): Rafaela - out
+Score: Team1 1, Team2 0
+Outs: 0, Bases: OXO
+
+Inning 1 (bottom): Devers - out
+Score: Team1 1, Team2 0
+Outs: 1, Bases: OXO
+
+Inning 1 (bottom): Abreu - out
+Score: Team1 1, Team2 0
+Outs: 2, Bases: OXO
+
+Inning 2 (top): Stanton - single
+Score: Team1 1, Team2 0
+Outs: 0, Bases: OOO
+
+Inning 2 (top): Cabrera - out
+Score: Team1 1, Team2 0
+Outs: 0, Bases: XOO
+
+Inning 2 (top): Trevino - out
+Score: Team1 1, Team2 0
+Outs: 1, Bases: XOO
+
+Inning 2 (top): Volpe - out
+Score: Team1 1, Team2 0
+Outs: 2, Bases: XOO
+
+Inning 2 (bottom): O'Neill - out
+Score: Team1 1, Team2 0
+Outs: 0, Bases: OOO
+
+Inning 2 (bottom): Wong - out
+Score: Team1 1, Team2 0
+Outs: 1, Bases: OOO
+
+Inning 2 (bottom): Valdez - out
+Score: Team1 1, Team2 0
+Outs: 2, Bases: OOO
+
+Inning 3 (top): Soto - out
+Score: Team1 1, Team2 0
+Outs: 0, Bases: OOO
+
+Inning 3 (top): Rizzo - home_run
+Score: Team1 1, Team2 0
+Outs: 1, Bases: OOO
+
+Inning 3 (top): Judge - walk
+Score: Team1 2, Team2 0
+Outs: 1, Bases: OOO
+
+Inning 3 (top): Torres - out
+Score: Team1 2, Team2 0
+Outs: 1, Bases: XOO
+
+Inning 3 (top): Verdugo - out
+Score: Team1 2, Team2 0
+Outs: 2, Bases: XOO
+
+Inning 3 (bottom): McGuire - home_run
+Score: Team1 2, Team2 0
+Outs: 0, Bases: OOO
+
+Inning 3 (bottom): Yoshida - out
+Score: Team1 2, Team2 1
+Outs: 0, Bases: OOO
+
+Inning 3 (bottom): Duran - walk
+Score: Team1 2, Team2 1
+Outs: 1, Bases: OOO
+
+Inning 3 (bottom): Rafaela - out
+Score: Team1 2, Team2 1
+Outs: 1, Bases: XOO
+
+Inning 3 (bottom): Devers - walk
+Score: Team1 2, Team2 1
+Outs: 2, Bases: XOO
+
+Inning 3 (bottom): Abreu - out
+Score: Team1 2, Team2 1
+Outs: 2, Bases: XXO
+
+Inning 4 (top): Stanton - double
+Score: Team1 2, Team2 1
+Outs: 0, Bases: OOO
+
+Inning 4 (top): Cabrera - single
+Score: Team1 2, Team2 1
+Outs: 0, Bases: OXO
+
+Inning 4 (top): Trevino - out
+Score: Team1 2, Team2 1
+Outs: 0, Bases: XXX
+
+Inning 4 (top): Volpe - out
+Score: Team1 2, Team2 1
+Outs: 1, Bases: XXX
+
+Inning 4 (top): Soto - single
+Score: Team1 2, Team2 1
+Outs: 2, Bases: XXX
+
+Inning 4 (top): Rizzo - out
+Score: Team1 3, Team2 1
+Outs: 2, Bases: XXX
+
+Inning 4 (bottom): O'Neill - double
+Score: Team1 3, Team2 1
+Outs: 0, Bases: OOO
+
+Inning 4 (bottom): Wong - out
+Score: Team1 3, Team2 1
+Outs: 0, Bases: OXO
+
+Inning 4 (bottom): Valdez - out
+Score: Team1 3, Team2 1
+Outs: 1, Bases: OXO
+
+Inning 4 (bottom): McGuire - out
+Score: Team1 3, Team2 1
+Outs: 2, Bases: OXO
+
+Inning 5 (top): Judge - out
+Score: Team1 3, Team2 1
+Outs: 0, Bases: OOO
+
+Inning 5 (top): Torres - single
+Score: Team1 3, Team2 1
+Outs: 1, Bases: OOO
+
+Inning 5 (top): Verdugo - double
+Score: Team1 3, Team2 1
+Outs: 1, Bases: XOO
+
+Inning 5 (top): Stanton - out
+Score: Team1 3, Team2 1
+Outs: 1, Bases: OXX
+
+Inning 5 (top): Cabrera - out
+Score: Team1 3, Team2 1
+Outs: 2, Bases: OXX
+
+Inning 5 (bottom): Yoshida - out
+Score: Team1 3, Team2 1
+Outs: 0, Bases: OOO
+
+Inning 5 (bottom): Duran - single
+Score: Team1 3, Team2 1
+Outs: 1, Bases: OOO
+
+Inning 5 (bottom): Rafaela - single
+Score: Team1 3, Team2 1
+Outs: 1, Bases: XOO
+
+Inning 5 (bottom): Devers - home_run
+Score: Team1 3, Team2 1
+Outs: 1, Bases: XXO
+
+Inning 5 (bottom): Abreu - out
+Score: Team1 3, Team2 4
+Outs: 1, Bases: OOO
+
+Inning 5 (bottom): O'Neill - out
+Score: Team1 3, Team2 4
+Outs: 2, Bases: OOO
+
+Inning 6 (top): Trevino - out
+Score: Team1 3, Team2 4
+Outs: 0, Bases: OOO
+
+Inning 6 (top): Volpe - double
+Score: Team1 3, Team2 4
+Outs: 1, Bases: OOO
+
+Inning 6 (top): Soto - single
+Score: Team1 3, Team2 4
+Outs: 1, Bases: OXO
+
+Inning 6 (top): Rizzo - out
+Score: Team1 3, Team2 4
+Outs: 1, Bases: XXX
+
+Inning 6 (top): Judge - single
+Score: Team1 3, Team2 4
+Outs: 2, Bases: XXX
+
+Inning 6 (top): Torres - out
+Score: Team1 4, Team2 4
+Outs: 2, Bases: XXX
+
+Inning 6 (bottom): Wong - single
+Score: Team1 4, Team2 4
+Outs: 0, Bases: OOO
+
+Inning 6 (bottom): Valdez - out
+Score: Team1 4, Team2 4
+Outs: 0, Bases: XOO
+
+Inning 6 (bottom): McGuire - out
+Score: Team1 4, Team2 4
+Outs: 1, Bases: XOO
+
+Inning 6 (bottom): Yoshida - single
+Score: Team1 4, Team2 4
+Outs: 2, Bases: XOO
+
+Inning 6 (bottom): Duran - out
+Score: Team1 4, Team2 4
+Outs: 2, Bases: XXO
+
+Inning 7 (top): Verdugo - out
+Score: Team1 4, Team2 4
+Outs: 0, Bases: OOO
+
+Inning 7 (top): Stanton - triple
+Score: Team1 4, Team2 4
+Outs: 1, Bases: OOO
+
+Inning 7 (top): Cabrera - out
+Score: Team1 4, Team2 4
+Outs: 1, Bases: OOX
+
+Inning 7 (top): Trevino - home_run
+Score: Team1 4, Team2 4
+Outs: 2, Bases: OOX
+
+Inning 7 (top): Volpe - out
+Score: Team1 6, Team2 4
+Outs: 2, Bases: OOO
+
+Inning 7 (bottom): Rafaela - out
+Score: Team1 6, Team2 4
+Outs: 0, Bases: OOO
+
+Inning 7 (bottom): Devers - home_run
+Score: Team1 6, Team2 4
+Outs: 1, Bases: OOO
+
+Inning 7 (bottom): Abreu - out
+Score: Team1 6, Team2 5
+Outs: 1, Bases: OOO
+
+Inning 7 (bottom): O'Neill - out
+Score: Team1 6, Team2 5
+Outs: 2, Bases: OOO
+
+Inning 8 (top): Soto - out
+Score: Team1 6, Team2 5
+Outs: 0, Bases: OOO
+
+Inning 8 (top): Rizzo - single
+Score: Team1 6, Team2 5
+Outs: 1, Bases: OOO
+
+Inning 8 (top): Judge - double
+Score: Team1 6, Team2 5
+Outs: 1, Bases: XOO
+
+Inning 8 (top): Torres - out
+Score: Team1 6, Team2 5
+Outs: 1, Bases: OXX
+
+Inning 8 (top): Verdugo - out
+Score: Team1 6, Team2 5
+Outs: 2, Bases: OXX
+
+Inning 8 (bottom): Wong - out
+Score: Team1 6, Team2 5
+Outs: 0, Bases: OOO
+
+Inning 8 (bottom): Valdez - out
+Score: Team1 6, Team2 5
+Outs: 1, Bases: OOO
+
+Inning 8 (bottom): McGuire - out
+Score: Team1 6, Team2 5
+Outs: 2, Bases: OOO
+
+Inning 9 (top): Stanton - home_run
+Score: Team1 6, Team2 5
+Outs: 0, Bases: OOO
+
+Inning 9 (top): Cabrera - out
+Score: Team1 7, Team2 5
+Outs: 0, Bases: OOO
+
+Inning 9 (top): Trevino - out
+Score: Team1 7, Team2 5
+Outs: 1, Bases: OOO
+
+Inning 9 (top): Volpe - out
+Score: Team1 7, Team2 5
+Outs: 2, Bases: OOO
+
+Inning 9 (bottom): Yoshida - out
+Score: Team1 7, Team2 5
+Outs: 0, Bases: OOO
+
+Inning 9 (bottom): Duran - out
+Score: Team1 7, Team2 5
+Outs: 1, Bases: OOO
+
+Inning 9 (bottom): Rafaela - out
+Score: Team1 7, Team2 5
+Outs: 2, Bases: OOO
+
